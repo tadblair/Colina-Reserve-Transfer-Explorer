@@ -1,0 +1,5 @@
+{
+  "name": "Colina Reserve Transfer Explorer",
+  "description": "An interactive tool to explore reserve-funded repair spending shifts between UCLA and faculty owners.",
+  "requestFramePermissions": []
+}
